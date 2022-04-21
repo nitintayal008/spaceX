@@ -2,7 +2,7 @@
 
 Spacex redesign using Html, Css and JavaScript.
 
-#### Demo: https://codersgyan.github.io/spacex-redesign/
+#### Demo: https://nitintayal008.github.io/spaceX/
 
 If you want to contribute this project then please make this website responsive and create a pull request :)
 
